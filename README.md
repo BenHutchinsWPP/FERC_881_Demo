@@ -5,6 +5,6 @@ WARNING: No warranty is provided, and none of the code included in this package 
 All credit goes to FERC for providing this code. 
 Thanks to the following individuals for all of their hard work to provide this example, and for their June 23, 2022 presentation:
 - [Lisa Sosna](https://www.linkedin.com/in/lisa-sosna-26602515/), Economist, FERC
-- [Tom Dautel]([Tom Dautel](https://www.linkedin.com/in/tomdautel/)), Deputy Director – Division of Economic and Technical Analysis, FERC
+- [Tom Dautel](https://www.linkedin.com/in/tomdautel/), Deputy Director – Division of Economic and Technical Analysis, FERC
 - [Ken Fenton](https://www.linkedin.com/in/kennethfenton/), Physical Scientist, Global Systems Laboratory, NOAA
 
